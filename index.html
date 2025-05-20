@@ -26,18 +26,20 @@
       position: relative;
     }
     h1 {
-      font-size: 3em;
+      font-size: 5vw;
       margin-bottom: 10px;
       background: linear-gradient(to right, var(--primary), var(--accent));
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       animation: glow 2s infinite alternate;
+      text-align: center;
     }
     h2 {
-      font-size: 1.4em;
+      font-size: 4vw;
       color: var(--primary);
       margin-bottom: 30px;
       animation: fadeInUp 2s ease-in-out;
+      text-align: center;
     }
     @keyframes glow {
       0% { text-shadow: 0 0 5px var(--primary); }
@@ -52,19 +54,19 @@
       flex-direction: column;
       gap: 15px;
       z-index: 2;
-      width: 80%;
-      max-width: 400px;
+      width: 90%;
+      max-width: 500px;
       animation: fadeInUp 3s ease-in-out;
     }
     .link-btn {
       background: transparent;
       border: 2px solid var(--primary);
-      padding: 14px;
+      padding: 4vw;
       border-radius: 12px;
       color: var(--text);
       text-decoration: none;
       text-align: center;
-      font-size: 1.1em;
+      font-size: 4vw;
       position: relative;
       overflow: hidden;
       transition: background 0.3s ease, transform 0.3s ease;
@@ -106,18 +108,6 @@
       top: 0;
       left: 0;
       z-index: 1;
-    }
-    @media (max-width: 600px) {
-      h1 {
-        font-size: 2em;
-      }
-      h2 {
-        font-size: 1em;
-      }
-      .link-btn {
-        font-size: 1em;
-        padding: 12px;
-      }
     }
   </style>
 </head>
