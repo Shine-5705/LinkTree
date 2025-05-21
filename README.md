@@ -13,7 +13,7 @@ This Linktree acts as a central hub for my online presence, including LinkedIn, 
 
 ## 📱 Live Demo
 
-🔗 [View It Live]([https://yourusername.github.io/your-repo-name/](https://shine-5705.github.io/Shine-LinkTree/))
+🔗 [View It Live](https://shine-5705.github.io/Shine-LinkTree/)
 
 ## 🛠️ Features
 
@@ -45,7 +45,7 @@ This site is hosted via **GitHub Pages**. To deploy your own:
 ## 📬 Contact
 
 📧 guptashine5002@gmail.com
-🔗 [LinkedIn](https://www.linkedin.com/in/shine-gupta-62b22b264/))
+🔗 [LinkedIn](https://www.linkedin.com/in/shine-gupta-62b22b264/)
 
 ---
 
