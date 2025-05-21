@@ -2,7 +2,7 @@
 
 Welcome to my personal animated Linktree, showcasing my professional links and coding profiles with elegant design, smooth animations, and mobile-friendly responsiveness.
 
-![Preview]([preview-image-url](https://github.com/Shine-5705/Shine-LinkTree/blob/main/image.png))
+![Preview](https://github.com/Shine-5705/Shine-LinkTree/blob/main/image.png)
 
 ## 🚀 About Me
 
@@ -26,7 +26,7 @@ This Linktree acts as a central hub for my online presence, including LinkedIn, 
   - Twitter (X)
   - GitHub
   - LeetCode
-
+  ... and many more
 ## 🧑‍💻 Tech Stack
 
 - HTML5
@@ -45,7 +45,7 @@ This site is hosted via **GitHub Pages**. To deploy your own:
 ## 📬 Contact
 
 📧 guptashine5002@gmail.com
-🔗 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/shine-gupta-62b22b264/))
+🔗 [LinkedIn](https://www.linkedin.com/in/shine-gupta-62b22b264/))
 
 ---
 
